@@ -1,0 +1,32 @@
+/*! Macaws SMACSS v0.1.0
+*   Copyright 2015, João Firmino
+*	http://github.com/firminoweb
+*   http://twitter.com/firminoweb
+*/
+
+//BASE
+@import "base/variables";
+@import "base/mixins";
+@import "base/normalize"; /* normalize.css v3.0.2 */
+@import "base/elements";
+
+//LAYOUT
+@import "layout/grid";
+@import "layout/header";
+@import "layout/content";
+@import "layout/sidebar";
+@import "layout/footer";
+
+//MODULES
+@import "modules/forms";
+@import "modules/buttons";
+@import "modules/tables";
+@import "modules/helpers";
+@import "modules/utils";
+
+//STATE
+@import "state/responsive";
+@import "state/print";
+
+//THEME
+@import "theme/you_theme";
