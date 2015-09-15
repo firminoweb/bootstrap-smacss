@@ -1,5 +1,5 @@
-# Macaws SMACSS
-A starter style to organize your projects. Inspired on Scalable and Modular Architecture for CSS (SMACSS) from Jonathan Snook. http://smacss.com
+# SMACSS
+My SMACSS type starter with most known css pre-processors to organize your projects. Inspired on **Scalable and Modular Architecture for CSS** (SMACSS) from Jonathan Snook. http://smacss.com
 
 ## Get to Know
 * Less   - http://lesscss.org/
