@@ -1,0 +1,61 @@
+//== Default Theme variables and configs ==//
+
+//-- Paths
+$path_bower:               "../../components"; //customize you own bower components path ;)
+$fa-font-path:             "#{$path_bower}/font-awesome/fonts"; // Font Awesome Path
+
+//-- Enable-Disable Bootstrap Features*
+$enable-flex:               true;
+$enable-transitions:        true;
+$enable-shadows:            true;
+$enable-rounded:            true;
+
+//-- Theme general Configs*
+$theme-border-radius:      .5rem;
+
+// Navbar*
+// $navbar-light-color:       rgba(0,0,0,.6);
+// $navbar-light-hover-color: rgba(0,0,0,.8);
+// $navbar-dark-color:        rgba(255,255,255,.6);
+// $navbar-dark-hover-color:  rgba(255,255,255,.8);
+// $navbar-border-radius: 	   $theme-border-radius;
+
+// Alert*
+//$alert-border-radius:      $theme-border-radius;
+
+// Button*
+//$btn-border-radius:        $theme-border-radius;
+
+// Input*
+//$input-btn-border-width:   $theme-border-width;
+//$input-border-radius:      $theme-border-radius;
+
+// Dropdown*
+//$dropdown-border-width:    $theme-border-width;
+
+// Card*
+//$card-border-width: 	   $theme-border-width;
+//$card-border-radius:       $theme-border-radius;
+
+//-- Theme Default Standards*
+$brand-primary:            #084cc1;
+$brand-secondary:          #7952b3;
+
+$brand-success:            #28a54b;
+$brand-info:               #2aabd2;
+$brand-warning:            #ffa300;
+$brand-danger:   		   #e02512;
+
+// Inverse, Dark and Fade BS pre-defined standards
+$gray-dark:                 #3a4651;
+/*
+$gray:                      #55595c;
+$gray-light:                #818a91;
+$gray-lighter:              #eceeef;
+$gray-lightest:             #f7f7f9;
+*/
+
+// Secondary BS pre-defined standards
+$btn-secondary-color:            #fff;
+$btn-secondary-bg:               $brand-secondary;
+$btn-secondary-border:           $btn-secondary-bg;

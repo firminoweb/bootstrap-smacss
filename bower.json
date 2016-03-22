@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-smacss",
+  "authors": [
+    "Joao Firmino"
+  ],
+  "description": "Bootstrap SMACSS starter style.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "Bootstrap",
+    "4",
+    "sass",
+    "skin",
+    "theme",
+    "CSS",
+    "retina",
+    "offcanvas",
+    "animations"
+  ],
+  "license": "MIT",
+  "github":  "https://github.com/firminoweb/bootstrap-smacss",
+  "twitter": "https://twitter.com/firminoweb"
+  "devDependencies": {
+    "bootstrap": "4.0",
+    "font-awesome": "fontawesome#~4.5.0"
+  }
+}

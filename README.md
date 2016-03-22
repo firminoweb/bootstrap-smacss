@@ -1,10 +1,12 @@
 # SMACSS
-My SMACSS type starter with most known css pre-processors to organize your projects. Inspired on **Scalable and Modular Architecture for CSS** (SMACSS) from Jonathan Snook. http://smacss.com
+My Bootstrap SMACSS starter style for your frond end projects. Inspired by SMACSS propose from Jonathan Snook + Bootstrap 4 modules.
+
+With Gulp/Babel ES6 Starter Task Runner Script; More details how to use it soon... 
 
 ## Get to Know
-* Less   - http://lesscss.org/
 * Sass   - http://sass-lang.com/
-* Stylus - http://learnboost.github.io/stylus/
+* SMACSS - https://smacss.com/
+* Bootstrap 4 - http://v4-alpha.getbootstrap.com/
 
 ## Author
 
